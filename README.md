@@ -1,0 +1,2 @@
+# Clipboard-Manager
+Clipboard Manager
