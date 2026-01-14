@@ -1,6 +1,6 @@
 # 📋 Clipboard Manager v1.1
 
-![Image](https://github.com/user-attachments/assets/a3558cd9-c264-4e77-b4e6-889e5c754354)
+![Image](https://github.com/user-attachments/assets/9de5935b-219e-4a81-9c23-810fc84514b0)
 
 ## 📝 Program Idea
 **Clipboard Manager** is a professional desktop application that keeps a history of everything you copy to the clipboard. It lets you quickly access and restore previously copied items with ease. The app runs in the background and automatically monitors the clipboard to save every text or link you copy.
@@ -142,5 +142,6 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 
 </div>
+
 
 
