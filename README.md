@@ -5,6 +5,11 @@
 ## 📝 Program Idea
 **Clipboard Manager** is a professional desktop application that keeps a history of everything you copy to the clipboard. It lets you quickly access and restore previously copied items with ease. The app runs in the background and automatically monitors the clipboard to save every text or link you copy.
 
+## 🆕 What's New in v1.2
+- **Robust Data Recovery**: Advanced self-healing system that automatically restores your groups if the main data file is corrupted or missing.
+- **Smart Metadata**: Group names and creation dates are now embedded in every file, ensuring 100% accurate recovery.
+- **Enhanced Stability**: Improved file handling mechanisms to prevent data loss.
+
 ## 🆕 What's New in v1.1
 - **UI Improvements**:
   - Dedicated **Pin** and **Delete** buttons for easier access.
@@ -73,12 +78,17 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 **Clipboard Manager** هو تطبيق سطح مكتب احترافي يقوم بحفظ سجل لكل ما تنسخه إلى الحافظة، مما يتيح لك الوصول السريع إلى العناصر المنسوخة السابقة واستعادتها بسهولة. يعمل البرنامج في الخلفية ويراقب الحافظة تلقائياً ليحفظ كل نص أو رابط تقوم بنسخه.
 
+## 🆕 الجديد في الإصدار v1.2
+- **نظام استعادة بيانات قوي**: نظام إصلاح ذاتي يقوم تلقائياً باستعادة مجموعاتك في حال تلف أو فقدان ملف البيانات الرئيسي.
+- **بيانات وصفية ذكية**: يتم حفظ أسماء المجموعات وتواريخ إنشائها داخل كل ملف، مما يضمن استعادة دقيقة بنسبة 100%.
+- **تحسين الاستقرار**: آليات متطورة للتعامل مع الملفات لمنع فقدان البيانات.
+
 ## 🆕 الجديد في الإصدار v1.1
 - **تحسينات واجهة المستخدم**:
   - أزرار مخصصة لـ **التثبيت** و **الحذف** لسهولة الوصول.
   - **تنسيق ديناميكي**: تظهر الأزرار تلقائياً في الجهة المناسبة (يمين للإنجليزية، يسار للعربية).
   - **شريط تمرير عصري**: شريط تمرير رفيع وشفاف (Overlay Style).
-  - **تصميم مدمج**: تحسين المسافات وحجم الأيقونات لاستغلال أفضل للمساحة.
+  - **تصميم مدمج**: تحسين المسافات وحجم الأيقونات لاستغلال أفضل للمساحة..
 
 ## ✨ الميزات الرئيسية
 
@@ -142,6 +152,7 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 
 </div>
+
 
 
 
