@@ -1,9 +1,17 @@
-# 📋 Clipboard Manager
+# 📋 Clipboard Manager Plus v1.3
 
-![Image](https://github.com/user-attachments/assets/9de5935b-219e-4a81-9c23-810fc84514b0)
+<img width="357" height="474" alt="Image" src="https://github.com/user-attachments/assets/5c26e362-38ef-487f-a453-1fc05ecc956b" />
+<img width="356" height="478" alt="Image" src="https://github.com/user-attachments/assets/3b76531b-6d7b-4b3e-8611-87d8cd20bfc0" />
+![Image](https://github.com/user-attachments/assets/a1fd996a-0a73-4d83-a6c7-ba181680ba7c)
 
 ## 📝 Program Idea
-**Clipboard Manager** is a professional desktop application that keeps a history of everything you copy to the clipboard. It lets you quickly access and restore previously copied items with ease. The app runs in the background and automatically monitors the clipboard to save every text or link you copy.
+**Clipboard Manager Plus** is a professional desktop application that keeps a history of everything you copy to the clipboard. It lets you quickly access and restore previously copied items with ease. The app runs in the background and automatically monitors the clipboard to save every text or link you copy.
+
+## 🆕 What's New in v1.3
+- **Added Dark Mode**: Full dark theme support for a better viewing experience.
+- **Window Dragging**: Move the window easily by dragging the top header.
+- **Window Resizing**: Resize the interface from the corners to fit your needs.
+- **Program Name Change**: Updated the application name to "Clipboard Manager Plus".
 
 ## 🆕 What's New in v1.2
 - **Robust Data Recovery**: Advanced self-healing system that automatically restores your groups if the main data file is corrupted or missing.
@@ -67,16 +75,22 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 ### Data Storage Location
 
-%APPDATA%\ClipboardManager
+%APPDATA%\ClipboardManagerPlus\
 ├── groups.json    # Groups and saved items
 ├── settings.json  # Application settings
 
-# 📋 Clipboard Manager v1.1
+# 📋 Clipboard Manager Plus v1.3
 
 
 ## 📝 فكرة البرنامج
 
-**Clipboard Manager** هو تطبيق سطح مكتب احترافي يقوم بحفظ سجل لكل ما تنسخه إلى الحافظة، مما يتيح لك الوصول السريع إلى العناصر المنسوخة السابقة واستعادتها بسهولة. يعمل البرنامج في الخلفية ويراقب الحافظة تلقائياً ليحفظ كل نص أو رابط تقوم بنسخه.
+**Clipboard Manager Plus** هو تطبيق سطح مكتب احترافي يقوم بحفظ سجل لكل ما تنسخه إلى الحافظة، مما يتيح لك الوصول السريع إلى العناصر المنسوخة السابقة واستعادتها بسهولة. يعمل البرنامج في الخلفية ويراقب الحافظة تلقائياً ليحفظ كل نص أو رابط تقوم بنسخه.
+
+## 🆕 الجديد في الإصدار v1.3
+- **إضافة الوضع الداكن**: دعم كامل للثيم الليلي لراحة العين.
+- **تحريك النافذة**: إمكانية تحريك البرنامج عن طريق سحب الشريط العلوي.
+- **تغيير الحجم**: إمكانية تكبير وتصغير واجهة البرنامج من الزاوية.
+- **تغيير اسم البرنامج**: تم تحديث اسم البرنامج إلى "Clipboard Manager Plus".
 
 ## 🆕 الجديد في الإصدار v1.2
 - **نظام استعادة بيانات قوي**: نظام إصلاح ذاتي يقوم تلقائياً باستعادة مجموعاتك في حال تلف أو فقدان ملف البيانات الرئيسي.
@@ -88,7 +102,7 @@ Access settings by clicking the ⚙️ icon in the app interface.
   - أزرار مخصصة لـ **التثبيت** و **الحذف** لسهولة الوصول.
   - **تنسيق ديناميكي**: تظهر الأزرار تلقائياً في الجهة المناسبة (يمين للإنجليزية، يسار للعربية).
   - **شريط تمرير عصري**: شريط تمرير رفيع وشفاف (Overlay Style).
-  - **تصميم مدمج**: تحسين المسافات وحجم الأيقونات لاستغلال أفضل للمساحة..
+  - **تصميم مدمج**: تحسين المسافات وحجم الأيقونات لاستغلال أفضل للمساحة.
 
 ## ✨ الميزات الرئيسية
 
@@ -142,7 +156,7 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 ### مكان حفظ البيانات
 ```
-%APPDATA%\ClipboardManager\
+%APPDATA%\ClipboardManagerPlus\
 ├── groups.json       # المجموعات والعناصر المحفوظة
 ├── settings.json     # إعدادات البرنامج
 
@@ -152,8 +166,5 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 
 </div>
-
-
-
 
 
