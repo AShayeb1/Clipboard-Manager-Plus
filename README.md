@@ -1,7 +1,7 @@
 # 📋 Clipboard Manager Plus v1.3
 
 <img width="357" height="474" alt="Image" src="https://github.com/user-attachments/assets/5c26e362-38ef-487f-a453-1fc05ecc956b" />  
-<img width="356" height="478" alt="Image" src="https://github.com/user-attachments/assets/3b76531b-6d7b-4b3e-8611-87d8cd20bfc0" />
+<img width="357" height="474" alt="Image" src="https://github.com/user-attachments/assets/3b76531b-6d7b-4b3e-8611-87d8cd20bfc0" />
 
 
 ![Image](https://github.com/user-attachments/assets/a1fd996a-0a73-4d83-a6c7-ba181680ba7c)
@@ -168,6 +168,7 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 
 </div>
+
 
 
 
