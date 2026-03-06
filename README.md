@@ -9,6 +9,11 @@
 ## 📝 Program Idea
 **Clipboard Manager Plus** is a professional desktop application that keeps a history of everything you copy to the clipboard. It lets you quickly access and restore previously copied items with ease. The app runs in the background and automatically monitors the clipboard to save every text or link you copy.
 
+## 🆕 What's New in v1.4
+- **Fixing the problem (Windows 11 Hotkey & Position Fix)**: 
+  - Added a fallback to `Ctrl+Alt+V` to prevent conflicts with native Windows 11 keyboard shortcuts.
+  - Added DPI-awareness to ensure the clipboard interface always appears perfectly positioned under the cursor, regardless of display scaling settings.
+
 ## 🆕 What's New in v1.3
 - **Added Dark Mode**: Full dark theme support for a better viewing experience.
 - **Window Dragging**: Move the window easily by dragging the top header.
@@ -88,11 +93,16 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 **Clipboard Manager Plus** هو تطبيق سطح مكتب احترافي يقوم بحفظ سجل لكل ما تنسخه إلى الحافظة، مما يتيح لك الوصول السريع إلى العناصر المنسوخة السابقة واستعادتها بسهولة. يعمل البرنامج في الخلفية ويراقب الحافظة تلقائياً ليحفظ كل نص أو رابط تقوم بنسخه.
 
+## 🆕 الجديد في الإصدار v1.4
+- **تصليح المشكله (مشكلة ويندوز 11 وموقع النافذة)**:
+  - استخدام الاختصار البديل `Ctrl+Alt+V` لتجاوز التعارض مع اختصارات ويندوز 11 المحجوزة.
+  - دعم كامل لمعامل التكبير (DPI Scaling) لضمان ظهور النافذة تحت مؤشر الماوس بدقة عالية على جميع الشاشات.
+
 ## 🆕 الجديد في الإصدار v1.3
 - **إضافة الوضع الداكن**: دعم كامل للثيم الليلي لراحة العين.
 - **تحريك النافذة**: إمكانية تحريك البرنامج عن طريق سحب الشريط العلوي.
 - **تغيير الحجم**: إمكانية تكبير وتصغير واجهة البرنامج من الزاوية.
-- **تغيير اسم البرنامج**: تم تحديث اسم البرنامج إلى "Clipboard Manager Plus".
+- **تغيير اسم البرنامج**: تم تحديث اسم البرنامج إلى "Clipboard Manager Plus"..
 
 ## 🆕 الجديد في الإصدار v1.2
 - **نظام استعادة بيانات قوي**: نظام إصلاح ذاتي يقوم تلقائياً باستعادة مجموعاتك في حال تلف أو فقدان ملف البيانات الرئيسي.
@@ -168,6 +178,7 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 
 </div>
+
 
 
 
